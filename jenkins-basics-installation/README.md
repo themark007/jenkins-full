@@ -1283,15 +1283,3 @@ Org Folder     → Enterprise with many repos in one GitHub/GitLab org
 - [Jenkins Security — Best Practices](https://www.jenkins.io/doc/book/security/)
 
 ---
-
-## 🤝 Contributing
-
-Found a mistake or want to add a topic? Open a PR!
-
-- Keep language simple — write for a junior who is reading this on day 1
-- Add a diagram if you're explaining a flow
-- Test any commands before committing them
-
----
-
-*Last updated: 2025 | Maintained by the DevOps team*
