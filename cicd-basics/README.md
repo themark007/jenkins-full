@@ -761,6 +761,4 @@ Found a mistake or want to add a topic? Open a PR!
 - Add a diagram if you're explaining a flow
 - Test any code/script examples before committing
 
----
 
-*Last updated: 2025 | Maintained by the DevOps team*
